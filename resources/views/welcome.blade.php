@@ -84,7 +84,7 @@
                     New Laravel project
                 </div>
                 <div>
-                    Jenkins edition
+                    Jenkins edition v.2
                 </div>
 
                 <div class="links">
