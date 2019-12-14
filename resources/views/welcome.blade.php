@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    New Laravel project
+                    Project
                 </div>
                 <div>
                     Jenkins edition v.2
