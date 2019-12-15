@@ -81,7 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     New Laravel project (test mode)
+=======
+                    Mi sada volim da web ponekad radi
+>>>>>>> 049027dbeade3ccc9df74c9287fa1f3bf897746d
                 </div>
 
                 <div class="links">
