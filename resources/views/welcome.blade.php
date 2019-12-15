@@ -81,14 +81,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
-                    Project
+                    Kakva terzka je ova zajebancija
                 </div>
                 <div>
-                    Jenkins edition v.2
-=======
-                    Laravel-zamena
->>>>>>> a72f5fa506e67d218d503976ab7256c598cdff7f
+                    govori se lepo
                 </div>
 
                 <div class="links">
