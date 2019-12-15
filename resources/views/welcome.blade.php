@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Gde je sobarica?!1
+                    Gde je sobarica
                 </div>
 
                 <div class="links">
