@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - zamena
+                    Gde je sobarica?!1
                 </div>
 
                 <div class="links">
