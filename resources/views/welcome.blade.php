@@ -84,7 +84,7 @@
                     Kakva terzka je ova zajebancija
                 </div>
                 <div>
-                    govori se lepo
+                    govori se lepo!
                 </div>
 
                 <div class="links">
